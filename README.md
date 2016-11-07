@@ -2,6 +2,8 @@ GitHub Halloween Contribution Graph
 =================
 > A Chrome extension to get back the Halloween Contribution Graph on GitHub :jack_o_lantern:
 
+![halloween-graph](https://raw.githubusercontent.com/amitmerchant1990/github-halloween-contribution-graph/master/res/github-contribution.png)
+
 ### Install
 
 To install the extension, download [the sourcecode](https://github.com/amitmerchant1990/github-halloween-contribution-graph/archive/master.zip), visit `chrome://extensions` in Chrome and drag the folder containing the above files into the window.
