@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub Halloween Contribution Graph",
+  "version": "0.1.0",
+  "description": "A Chrome extension to get back the Halloween Contribution Graph on GitHub",
+  "author": "Amit Merchant <bullredeyes@gmail.com>",
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["https://github.com/*"]
+  }]
+}
